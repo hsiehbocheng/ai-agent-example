@@ -1,0 +1,31 @@
+[project]
+name = "ai-agent-example"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic",
+    "aws-mfa",
+    "boto3",
+    "deepagents",
+    "fastapi",
+    "huggingface-hub",
+    "ipykernel",
+    "langchain",
+    "langchain-anthropic",
+    "langchain-aws",
+    "langchain-openai",
+    "langgraph",
+    "langgraph-checkpoint",
+    "langsmith",
+    "litellm",
+    "mcp",
+    "numpy",
+    "openai",
+    "openai-agents",
+    "python-dotenv",
+    "rich",
+    "tavily-python",
+    "uvicorn",
+]
